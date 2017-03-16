@@ -1,0 +1,45 @@
+/* Ride AU 2017 Fonts */
+@font-face {
+	font-family: 'Futura_Heavy';
+	src: url(../fonts/FuturaLTPro-Heavy.otf);
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Futura_Bold';
+	src: url(../fonts/FuturaLTPro-Bold.otf);
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Futura_Medium';
+	src: url(../fonts/FuturaLTPro-Medium.otf);
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Futura_Light';
+	src: url(../fonts/FuturaLTPro-Light.otf);
+	font-weight: normal;
+}
+h1, h2, h3 {
+	font-family: 'Futura_Heavy', sans-serif;	
+}
+h4, h5 h6 {
+	font-family: 'Futura_Bold', sans-serif;
+}
+strong {
+	font-family: 'Futura_Bold', sans-serif;
+}
+html, body, p, blockquote, li {
+	font-family: 'Futura_Medium', sans-serif;
+}
+.font-heavy {
+	font-family: 'Futura_Heavy', sans-serif!important;
+}
+.font-bold {
+	font-family: 'Futura_Bold', sans-serif!important;
+}
+.font-medium {
+	font-family: 'Futura_Medium', sans-serif!important;
+}
+.font-light {
+	font-family: 'Futura_Light', sans-serif!important;
+}
